@@ -2,7 +2,7 @@ Webpack 2 - CSS Modules - SASS
 ===
 
 # How to
-This project allow you to use CSS Modules with SASS files.
+This project allows you to use CSS Modules with SASS files.
 
 **styles.scss**:
 ```css
