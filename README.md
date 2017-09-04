@@ -22,13 +22,13 @@ console.log(JSON.stringify(scssStyles));
 # Installation
 Install dependencies:
 ```sh
-npm run install
+npm install
 ```
 
 # Launching
 Start the server:
 ```
-npm start
+npm run start
 ```
 
 Go to [http://localhost:3000](http://localhost:3000)
